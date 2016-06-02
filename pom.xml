@@ -1,6 +1,6 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
-	<groupID>com.git1.julien</groupID>
+	<groupId>com.git1.julien</groupID>
 	<artifactId>toto</artifactId>
 	<version>1</version>
 </project>
